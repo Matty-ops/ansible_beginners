@@ -11,7 +11,7 @@ Ce parcours de travaux pratiques vise à accompagner progressivement les étudia
 | **TP1** | Découverte d’Ansible et premiers pas | Installation, inventaires YAML, SSH, variables (`group_vars`/`host_vars`), commandes ad-hoc                        | [TP1_ansible_debut.md](./TP1_ansible_debut.md)           |
 | **TP2** | Premiers Playbooks                   | Utilisation de *gather facts*, création de playbooks simples pour configurer un serveur web et une base de données | [TP2_premiers_playbooks.md](./TP2_premiers_playbooks.md) |
 | **TP3** | Gestion des Secrets                  | Utilisation d’*Ansible Vault*, chiffrement de variables sensibles, gestion multi-environnements                    | [TP3_gestion_secrets.md](./TP3_gestion_secrets.md)       |
-
+| **TP4** | Rôles, templates et Handlers | Création de rôles, Utilisation de templates JINJA2 et utilisation des Handlers | [TP4_roles_templates_handlers.md](./TP4_roles_templates_handlers.md)   | 
 ---
 
 ## 🧩 Pré-requis techniques
